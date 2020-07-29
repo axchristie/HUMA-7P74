@@ -1,6 +1,6 @@
 # HUMA 7P74 | Alex Christie
 
-![](zaxis.png)
+![](assets/zaxis.png)
 
 Welcome to my website. More coming soon.
 
