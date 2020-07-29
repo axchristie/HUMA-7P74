@@ -6,8 +6,6 @@ Welcome to my website. More coming soon.
 
 ## Bio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcL0MeVZIxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Here is my short bio.
 
 ## Presentation
