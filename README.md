@@ -1,5 +1,7 @@
 # HUMA 7P74 | Alex Christie
 
+![](https://live.staticflickr.com/52/189880142_807691ef0e_b.jpg)
+
 Welcome to my website. More coming soon.
 
 ## Bio
