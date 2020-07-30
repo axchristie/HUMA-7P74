@@ -12,6 +12,6 @@ Goes here. *This is italicized*. And **this is emboldened**.
 
 {::nomarkdown}
 <video width="100%" height="auto" controls autoplay>
-  <source src="assets/zaxis-nightwood-turntable.mp4" type="video/mp4">
+  <source src="assets/zaxis.mp4" type="video/mp4">
 </video>
 {:/}
