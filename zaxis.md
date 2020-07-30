@@ -7,3 +7,5 @@
 ![](assets/zaxis-nightwood-image-2.png)
 
 ## Turntable Movie
+
+<video src="assets/zaxis-nightwood-turntable.mov"></video>
