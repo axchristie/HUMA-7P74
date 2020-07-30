@@ -15,3 +15,7 @@ Here is my essay. Here is some *text in italics*. This **text is emboldened**.
   <source src="assets/zaxis.mp4" type="video/mp4">
 </video>
 {:/}
+
+## Works Cited
+
+* First entry
