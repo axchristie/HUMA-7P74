@@ -8,4 +8,4 @@
 
 ## Turntable Movie
 
-<video class="vid" width="80%" height="" controls=""><source src="assets/zaxis-nightwood-turntable.mov" autoplay="" type="video/mov" />Your browser does not support this video.</video>
+<video class="vid" width="80%" height="><source src="assets/zaxis-nightwood-turntable.mov" autoplay="" /></video>
