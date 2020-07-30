@@ -8,4 +8,6 @@
 
 ## Turntable Movie
 
-<video src="assets/zaxis-nightwood-turntable.mov"></video>
+<video width="400" Autoplay=autoplay>
+  <source src="assets/zaxis-nightwood-turntable.mov" type="video/mov">
+</video>
