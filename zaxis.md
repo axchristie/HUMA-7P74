@@ -8,4 +8,4 @@
 
 ## Turntable Movie
 
-<video class="vid" width="80%" height="><source src="assets/zaxis-nightwood-turntable.mov" autoplay="" /></video>
+Download movie [here](assets/zaxis-nightwood-turntable.mov)
